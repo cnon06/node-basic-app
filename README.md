@@ -4,3 +4,5 @@ to make activate the server, you should write "npm app.js" on terminal when you 
 
 
 ![node](https://github.com/cnon06/node-basic-app/assets/59291488/567b96ae-2ecc-44db-9dc7-1ea51a87e47a)
+
+https://www.youtube.com/watch?v=hWki9EPeDFc
